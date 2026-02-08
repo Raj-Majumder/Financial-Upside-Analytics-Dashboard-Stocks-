@@ -1,6 +1,7 @@
 # Financial-Upside-Analytics-Dashboard-Stocks | Python
 
-Decsription: Build a Python script that automatically fetches real-time prices for the JPMorgan Top Picks list and identifies the stocks with the highest "Alpha" (undervalued potential)
+Decsription: Build a Python script that automatically fetches real-time prices for the JPMorgan Top Picks list (https://www.marketbeat.com/ratings/by-issuer/jpmorgan-chase-co-stock-recommendations/) and identifies the stocks with the highest "Alpha" (undervalued potential)
+
 
 # Process and Steps:
 
